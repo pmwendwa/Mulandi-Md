@@ -5,7 +5,7 @@
 <p align="center">
     <a href="https://github.com/Mulandii">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+MULANDI+TECH...+Thank+You+For+Visiting+us...."
+            src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+✰°᭄°мщe͜͡й𝚍щꪖ ༺᭄+TECH...+Thank+You+For+Visiting+us...."
             alt="SASSY NOT TRASHY"
         />
     </a>
@@ -15,7 +15,7 @@
 
 
 
-# _IT'S ⿻ 乂𝐌𝐮𝐥𝐚𝐧𝐝𝐢 ✗⭗乂⿻_
+# _IT'S ⿻ 乂✰°᭄°мщe͜͡й𝚍щꪖ ༺᭄✗⭗乂⿻_
 
 ***This whatsapp mini-bot is created with the help of NodeJS and uses [Baileys](https://github.com/whiskeysockets/baileys)***
 
